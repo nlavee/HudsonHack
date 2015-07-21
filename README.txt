@@ -1,0 +1,11 @@
+Low income students faced a lot of challenges daily compared to their peers. We believe that this is unfair. So, we strive to bridge one of the gap that low income students face: Lack of access to quality information.
+
+As a student or parent enter our website, he or she can easily sign up, with only name, email address and school name. Knowing that computers are not easily accessible to the families that are part of these communities, we have made the website mobile compatible as well. The system, based on NYC open data, is able to go in and search and suggest the school name before the user even finished typing its name. Based on NYC open data, it also identifies the location and other relevant information that might be useful toward facilitating the growth of a student from a specific school.
+
+We provide targeted information to students of specific grade with specific subjects. Students can easily explore and strengthen their knowledge, which is what we dearly refer to as a process of catching up. The name of the website. Ketch-up was a mere wordplay of catch-up, hoping to make kids giggles because we understand the silliness and innocence these children possess.
+
+Another feature that the websites provide is a list of events that are near the child's school. When an user are tired of studying, they can search for activities that are child-friendly and safe near their school area, where they would know best. In this way, we strive to make school and the area surrounding it a place where the child enjoys and wants to go to. Education, after all, is meaningless if the child does not enjoy it. By providing the child with activities that he/she can do for free with friends near their school, school suddenly becomes much more memorable.
+
+As a team, we're all learners and understand the joy of learning. With this in mind, we strive to share this with people, especially students who might not have ready access to all the resources out there!
+
+We'll continue to grow, as a website and a community. Because all these children will constitute to the development of future and we have total faith in them. Always.
